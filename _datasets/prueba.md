@@ -7,10 +7,12 @@ resources:
   - name: sss
     url: 'https://datahub.io/core/airport-codes/r/airport-codes.json'
     format: json
-license: 'https://creativecommons.org/publicdomain/zero/1.0/'
+  - name: asda
+    url: 'https://github.com/zafi23/datacleansing/blob/master/index.php'
+    format: html
+license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
-  - Public Safety
   - Uncategorized
-maintainer: prueba
-maintainer_email: p@p.com
+maintainer: ''
+maintainer_email: ''
 ---
