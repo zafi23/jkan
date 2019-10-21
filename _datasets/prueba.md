@@ -9,7 +9,8 @@ resources:
     format: json
 license: 'https://creativecommons.org/publicdomain/zero/1.0/'
 category:
+  - Public Safety
   - Uncategorized
-maintainer: ''
-maintainer_email: ''
+maintainer: prueba
+maintainer_email: p@p.com
 ---
